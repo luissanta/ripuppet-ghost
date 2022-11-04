@@ -1,0 +1,12 @@
+{
+    "url": "http://20.102.114.58/ghost",
+    "headless": true,
+    "depthLevels": 4,
+    "inputValues": true,
+    "values": {"ember8": "da.ramirez55@uniandes.edu.co",
+        "ember10": "Cg94F4J&$#i8qjX@a9iP",
+        "passwordTwoInput": "Cg94F4J&$#i8qjX@a9iP",
+        "nameInput": "Diego",
+        "emailInput": "da.ramirez55@uniandes.edu.co"},
+    "browsers": ["chromium"]
+}
